@@ -1,0 +1,1 @@
+$(window).on("scroll",function(){$(window).scrollTop()?$(".navbar-xl").addClass("fixed-nav"):$(".navbar-xl").removeClass("fixed-nav")});
